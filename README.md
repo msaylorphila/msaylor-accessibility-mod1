@@ -8,6 +8,16 @@ I reviewed the source code to include semantic HTML elements, I gave the element
 
 
 
+## Installation
+
+N/A
+
+
+## Credits
+
+N/A
+
 ## License
 
-Please see MIT license listed in file.
+Please see repository for MIT license
+
