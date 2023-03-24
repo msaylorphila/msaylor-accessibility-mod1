@@ -25,27 +25,26 @@ body {
     font-size: 48px;
 }
 /* changes color of .seo */
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 /* positions and changes text for links */
-.header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-   
-}
-/* takes away bullets from links */
-.header nav ul {
     list-style-type: none;
 }
-/* changins display to inline and pushing to the right */
-.header nav ul li {
+/* takes away bullets from links */
+
+nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
+
 /* changes links to specific color */
 a {
     color: #ffffff;
@@ -109,7 +108,7 @@ p {
     max-width: 150px;
 }
 /* changes font and positioning for header links */
-.header-links {
+.main-sections {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,11 +118,12 @@ p {
 }
 
 /* secures max height for img linked */
-.header-links img {
+.main-sections img {
     max-height: 200px;
+    
 }
 /* margin and font size for "online reputation managekment" */
-.header-links h2 {
+.main-sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -135,7 +135,7 @@ p {
     text-align: center;
 }
 /* font size for footer */
-.footer h4 {
+h4 {
     font-size: 20px;
 }
 
